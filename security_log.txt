@@ -1,0 +1,57 @@
+Tue, Dec  9, 2025  4:18:21 PM - VARNING: Filen 'cat security_log.txt' saknas.
+Tue, Dec  9, 2025  4:20:49 PM - VARNING: Användaren 'hello-bash.sh' saknas.
+Tue, Dec  9, 2025  4:20:49 PM - Kontroller slutförda.
+Tue, Dec  9, 2025  4:21:33 PM - Filen 'hello-bash.sh' finns.
+  File: hello-bash.sh
+  Size: 57        	Blocks: 1          IO Block: 65536  regular file
+Device: 5a99dad2h/1520032466d	Inode: 7318349394732015  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (197608/    User)   Gid: (197121/ UNKNOWN)
+Access: 2025-12-09 16:21:33.020867100 +0100
+Modify: 2025-12-09 16:04:02.980101700 +0100
+Change: 2025-12-09 16:04:02.980101700 +0100
+ Birth: 2025-12-09 15:38:06.905961500 +0100
+Tue, Dec  9, 2025  4:21:50 PM - Användaren 'user' finns.
+Tue, Dec  9, 2025  4:21:50 PM - Kontroller slutförda.
+Tue, Dec  9, 2025  4:23:22 PM - Filen 'hello-bash.sh' finns.
+  File: hello-bash.sh
+  Size: 57        	Blocks: 1          IO Block: 65536  regular file
+Device: 5a99dad2h/1520032466d	Inode: 7318349394732015  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (197608/    User)   Gid: (197121/ UNKNOWN)
+Access: 2025-12-09 16:23:22.596857900 +0100
+Modify: 2025-12-09 16:04:02.980101700 +0100
+Change: 2025-12-09 16:04:02.980101700 +0100
+ Birth: 2025-12-09 15:38:06.905961500 +0100
+Tue, Dec  9, 2025  4:23:30 PM - Användaren 'user' finns.
+Tue, Dec  9, 2025  4:23:30 PM - Kontroller slutförda.
+Tue, Dec  9, 2025  4:25:13 PM - VARNING: Filen '[A[B[A[B[C[D[D[C[A[Bhello-bash.sh' saknas.
+Tue, Dec  9, 2025  4:25:17 PM - Användaren 'User' finns.
+Tue, Dec  9, 2025  4:25:17 PM - Kontroller slutförda.
+Thu, Dec 11, 2025 10:03:35 AM - VARNING: Filen 'User' saknas.
+Thu, Dec 11, 2025 10:05:15 AM - VARNING: Användaren '[A[B[C[Dexit' saknas.
+Thu, Dec 11, 2025 10:05:15 AM - Kontroller slutförda.
+Thu, Dec 11, 2025 10:06:19 AM - Filen 'basic-security-check.sh' finns.
+  File: basic-security-check.sh
+  Size: 670       	Blocks: 4          IO Block: 65536  regular file
+Device: 5a99dad2h/1520032466d	Inode: 17732923533095923  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (197608/    User)   Gid: (197121/ UNKNOWN)
+Access: 2025-12-11 10:06:19.447351300 +0100
+Modify: 2025-12-11 10:05:06.493588100 +0100
+Change: 2025-12-11 10:05:06.493588100 +0100
+ Birth: 2025-12-09 16:17:59.159205300 +0100
+Thu, Dec 11, 2025 10:06:26 AM - Användaren 'User' finns.
+Thu, Dec 11, 2025 10:06:26 AM - Kontroller slutförda.
+12/11/2025 10:11:06 - Filen 'basic-security-check.ps1' finns.
+Archive
+
+12/11/2025 10:11:10 - Användaren 'User' finns.
+12/11/2025 10:11:10 - Kontroller slutförda.
+12/11/2025 10:15:03 - Filen 'basic-security-check.ps1' finns.
+Archive
+
+12/11/2025 10:15:10 - Användaren 'User' finns.
+12/11/2025 10:15:10 - Kontroller slutförda.
+12/11/2025 10:15:54 - Filen 'basic-security-check.ps1' finns.
+Archive
+
+12/11/2025 10:15:59 - Användaren 'User' finns.
+12/11/2025 10:15:59 - Kontroller slutförda.
