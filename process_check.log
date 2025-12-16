@@ -1,0 +1,79 @@
+Tue, Dec 16, 2025  1:12:37 PM - VARNING: Processen 'ssh' körs inte.
+Tue, Dec 16, 2025  1:12:37 PM - VARNING: Processen 'cron' körs inte.
+Tue, Dec 16, 2025  1:12:37 PM - VARNING: Processen 'apache2' körs inte.
+Tue, Dec 16, 2025  1:12:38 PM - VARNING: Processen 'mysqld' körs inte.
+Tue, Dec 16, 2025  1:12:38 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  1:20:15 PM - VARNING: Processen 'explorer' körs inte.
+Tue, Dec 16, 2025  1:20:16 PM - VARNING: Processen 'pwsh' körs inte.
+Tue, Dec 16, 2025  1:20:16 PM - VARNING: Processen 'svchost' körs inte.
+Tue, Dec 16, 2025  1:20:16 PM - VARNING: Processen 'lsass' körs inte.
+Tue, Dec 16, 2025  1:20:16 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  1:23:16 PM - VARNING: Processen 'bash' körs inte.
+Tue, Dec 16, 2025  1:23:16 PM - VARNING: Processen 'systemd' körs inte.
+Tue, Dec 16, 2025  1:23:16 PM - VARNING: Processen 'init' körs inte.
+Tue, Dec 16, 2025  1:23:16 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  1:25:00 PM - VARNING: Processen 'explorer' körs inte.
+Tue, Dec 16, 2025  1:25:00 PM - VARNING: Processen 'svchost' körs inte.
+Tue, Dec 16, 2025  1:25:00 PM - VARNING: Processen 'lsass' körs inte.
+Tue, Dec 16, 2025  1:25:00 PM - VARNING: Processen 'powershell' körs inte.
+Tue, Dec 16, 2025  1:25:01 PM - VARNING: Processen '' körs inte.
+Tue, Dec 16, 2025  1:25:01 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  1:25:34 PM - VARNING: Processen 'explorer' körs inte.
+Tue, Dec 16, 2025  1:25:34 PM - VARNING: Processen 'svchost' körs inte.
+Tue, Dec 16, 2025  1:25:34 PM - VARNING: Processen 'lsass' körs inte.
+Tue, Dec 16, 2025  1:25:34 PM - VARNING: Processen 'powershell' körs inte.
+Tue, Dec 16, 2025  1:25:34 PM - VARNING: Processen '' körs inte.
+Tue, Dec 16, 2025  1:25:34 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  1:26:53 PM - VARNING: Processen 'bash' körs inte.
+Tue, Dec 16, 2025  1:26:53 PM - VARNING: Processen 'ssh' körs inte.
+Tue, Dec 16, 2025  1:26:53 PM - VARNING: Processen 'git' körs inte.
+Tue, Dec 16, 2025  1:26:53 PM - VARNING: Processen 'mintty' körs inte.
+Tue, Dec 16, 2025  1:26:53 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  1:31:42 PM - VARNING: Processen 'ssh' körs inte.
+Tue, Dec 16, 2025  1:31:42 PM - VARNING: Processen 'cron' körs inte.
+Tue, Dec 16, 2025  1:31:42 PM - VARNING: Processen 'apache2' körs inte.
+Tue, Dec 16, 2025  1:31:42 PM - VARNING: Processen 'mysqld' körs inte.
+Tue, Dec 16, 2025  1:31:43 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  1:32:48 PM - VARNING: Processen '' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen 'ProcessLista="processlist.txt"' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen 'touch "$ProcessLista"' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen '' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen 'echo "ssh" > "$ProcessLista"' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen 'echo "cron" >> "$ProcessLista"' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen 'echo "apache2" >> "$ProcessLista"' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen 'echo "mysqld" >> "$ProcessLista"' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen '' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen 'log() {' körs inte.
+Tue, Dec 16, 2025  1:32:49 PM - VARNING: Processen 'echo "$(date) - $1" | tee -a "$ProcessLista"' körs inte.
+Tue, Dec 16, 2025  1:32:50 PM - VARNING: Processen '}' körs inte.
+Tue, Dec 16, 2025  1:32:50 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  1:36:20 PM - VARNING: Processen 'bash' körs inte.
+Tue, Dec 16, 2025  1:36:20 PM - VARNING: Processen 'mintty' körs inte.
+Tue, Dec 16, 2025  1:36:20 PM - VARNING: Processen 'sh' körs inte.
+Tue, Dec 16, 2025  1:36:20 PM - VARNING: Processen 'git' körs inte.
+Tue, Dec 16, 2025  1:36:20 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  1:36:36 PM - VARNING: Processen 'bash' körs inte.
+Tue, Dec 16, 2025  1:36:36 PM - VARNING: Processen 'mintty' körs inte.
+Tue, Dec 16, 2025  1:36:36 PM - VARNING: Processen 'sh' körs inte.
+Tue, Dec 16, 2025  1:36:36 PM - VARNING: Processen 'git' körs inte.
+Tue, Dec 16, 2025  1:36:36 PM - Kontroller slutförda.
+12/16/2025 13:45:47 - Processen 'explorer' körs.
+12/16/2025 13:45:47 - Processen 'svchost' körs.
+12/16/2025 13:45:47 - Processen 'lsass' körs.
+12/16/2025 13:45:47 - VARNING: Processen 'powershell' körs inte.
+12/16/2025 13:45:47 - Kontroller slutförda.
+12/16/2025 13:47:18 - Processen 'explorer' körs.
+12/16/2025 13:47:18 - Processen 'svchost' körs.
+12/16/2025 13:47:18 - Processen 'lsass' körs.
+12/16/2025 13:47:18 - Processen 'pwsh' körs.
+12/16/2025 13:47:18 - Kontroller slutförda.
+12/16/2025 13:47:48 - Processen 'explorer' körs.
+12/16/2025 13:47:48 - Processen 'svchost' körs.
+12/16/2025 13:47:48 - Processen 'lsass' körs.
+12/16/2025 13:47:48 - Processen 'pwsh' körs.
+12/16/2025 13:47:49 - Kontroller slutförda.
+12/16/2025 13:48:55 - Processen 'explorer' körs.
+12/16/2025 13:48:55 - Processen 'svchost' körs.
+12/16/2025 13:48:55 - Processen 'lsass' körs.
+12/16/2025 13:48:55 - Processen 'pwsh' körs.
+12/16/2025 13:48:55 - Kontroller slutförda.
