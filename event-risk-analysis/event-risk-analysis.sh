@@ -6,9 +6,9 @@ log() {
     echo "$(date '+%Y-%m-%d %H:%M:%S') - $1" | tee -a "$logfile"
 }
 
-# ------------------------------------
+# 
 # 1. Läs users.csv (username → status)
-# ------------------------------------
+# 
 declare -A status_map
 
 while IFS=',' read -r username status; do
@@ -16,9 +16,9 @@ while IFS=',' read -r username status; do
     status_map["$username"]="$status"
 done < users.csv
 
-# ------------------------------------
+
 # 2. Räkna failed_login per användare
-# ------------------------------------
+
 declare -A fail_count
 
 for user in "${!status_map[@]}"; do
@@ -26,9 +26,9 @@ for user in "${!status_map[@]}"; do
     fail_count["$user"]=$count
 done
 
-# ------------------------------------
+# 
 # 3. Riskklassificering (RÄTT LOOP)
-# ------------------------------------
+
 for user in "${!status_map[@]}"; do
     fails=${fail_count[$user]}
     status=${status_map[$user]}
