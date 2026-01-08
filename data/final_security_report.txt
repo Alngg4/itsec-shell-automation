@@ -1,0 +1,7 @@
+WARNING: Riskabel Windows-tjänst – RemoteRegistry
+WARNING: Riskabel Windows-tjänst – Spooler
+= ANOMALI-LOGG =
+2026-01-08 09:41:40 - Linux-kontroll klar.
+2026-01-08 10:00:43 - VARNING – Riskabel Windows-tjänst upptäckt: RemoteRegistry
+2026-01-08 10:00:43 - VARNING – Riskabel Windows-tjänst upptäckt: Spooler
+2026-01-08 10:00:43 - Windows-kontroll klar.

@@ -1,0 +1,11 @@
+{
+    "alerts": [
+        "HIGH: Riskabel Windows-tj\u00e4nst uppt\u00e4ckt \u2013 RemoteRegistry",
+        "HIGH: Riskabel Windows-tj\u00e4nst uppt\u00e4ckt \u2013 Spooler",
+        "CRITICAL: Brute-force-indikator fr\u00e5n IP 10.0.0.55 (5 misslyckade f\u00f6rs\u00f6k)",
+        "INFO: 2026-01-08 09:41:40 - Linux-kontroll klar.",
+        "INFO: 2026-01-08 10:00:43 - VARNING \u2013 Riskabel Windows-tj\u00e4nst uppt\u00e4ckt: RemoteRegistry",
+        "INFO: 2026-01-08 10:00:43 - VARNING \u2013 Riskabel Windows-tj\u00e4nst uppt\u00e4ckt: Spooler",
+        "INFO: 2026-01-08 10:00:43 - Windows-kontroll klar."
+    ]
+}

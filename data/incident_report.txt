@@ -1,0 +1,7 @@
+HIGH: Riskabel Windows-tjänst upptäckt – RemoteRegistry
+HIGH: Riskabel Windows-tjänst upptäckt – Spooler
+CRITICAL: Brute-force-indikator från IP 10.0.0.55 (5 misslyckade försök)
+INFO: 2026-01-08 09:41:40 - Linux-kontroll klar.
+INFO: 2026-01-08 10:00:43 - VARNING – Riskabel Windows-tjänst upptäckt: RemoteRegistry
+INFO: 2026-01-08 10:00:43 - VARNING – Riskabel Windows-tjänst upptäckt: Spooler
+INFO: 2026-01-08 10:00:43 - Windows-kontroll klar.
